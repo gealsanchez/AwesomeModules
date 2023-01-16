@@ -1,7 +1,7 @@
 import Book from '../modules/book.js';
 import Contact from '../modules/contact.js';
 
-function createTag(tagName, textContent = null, className = null) {
+const createTag = (tagName, textContent = null, className = null) => {
   const tag = document.createElement(tagName);
   tag.textContent = textContent;
   tag.className = className;

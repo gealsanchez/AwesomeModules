@@ -67,7 +67,7 @@ After you're finished please remove all the comments and instructions!
 - GitHub
 - Node
 
-### Tech Stack <a name="tech-stack"></a>
+<!-- ### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
@@ -88,7 +88,7 @@ After you're finished please remove all the comments and instructions!
   <ul>
 
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
@@ -149,7 +149,7 @@ To run the project, execute the following command:
 
 ```sh
   cd my-folder
-  npm start
+  Open the index.html file in a browser
 ```
 
 ### Run tests
