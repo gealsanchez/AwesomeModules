@@ -103,7 +103,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://gealsanchez.github.io/LeaderBoard/dist/)
+- [Live Demo Link](https://gealsanchez.github.io/AwesomeModules/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +131,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone [(https://github.com/gealsanchez/booksAwesome.git)]
+  git clone git@github.com:gealsanchez/AwesomeModules.git
 ```
 
 ### Install
@@ -181,12 +181,6 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-👤 **Jesus Molina**
-
-- GitHub: [@Sparktan24](https://github.com/Sparktan24)
-- Twitter: [@Sparktan1](https://twitter.com/Sparktan1)
-- LinkedIn: [Jesus Molina](https://www.linkedin.com/in/jesus-molina-2b104424a/) 
 
 👤 **Gerson Sanchez**
 
