@@ -6,7 +6,7 @@ const createTag = (tagName, textContent = null, className = null) => {
   tag.textContent = textContent;
   tag.className = className;
   return tag;
-}
+};
 
 const booksTable = document.querySelector('#books-table');
 
